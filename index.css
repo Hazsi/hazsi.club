@@ -21,6 +21,11 @@
 	display: inline-block;
 }
 
+html, body {
+	margin: 0;
+	padding: 0;
+}
+
 @keyframes blink {
   	0% { opacity: 1; }
   	100% { opacity: 0; }
